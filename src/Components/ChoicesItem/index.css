@@ -1,0 +1,9 @@
+.chioce-img {
+  height: 150px;
+  margin: 10px;
+}
+.choice-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
